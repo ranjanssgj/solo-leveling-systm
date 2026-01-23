@@ -1,6 +1,6 @@
 # 🌟 Solo Leveling System: Gamified Personal Development
 
-A revolutionary web application that transforms personal growth into an immersive RPG-style experience, where real-world self-improvement becomes your path to leveling up.
+A web application that transforms personal growth into an immersive RPG-style experience, where real-world self-improvement becomes your path to leveling up.
 
 ## ✨ What is Solo Leveling System?
 
@@ -46,20 +46,5 @@ Transform mundane daily tasks into exciting quests, where every push-up builds y
 - **Community Motivation**: Draw inspiration from others' achievements
 - **Healthy Competition**: Foster motivation through friendly rivalry
 
-## 🚀 Getting Started
-
-1. **Create Your Hunter Profile**: Set up your account and define your personal development goals
-2. **Complete Initial Assessment**: System analyzes your current level and preferences  
-3. **Receive Your Daily Quests**: AI generates 10 personalized challenges across all attributes
-4. **Begin Your Journey**: Complete quests, earn XP, and watch your character grow
-5. **Track Your Progress**: Monitor your development through comprehensive analytics
-
-## 🌟 The Solo Leveling System
-
-This isn't just another habit tracker or fitness app. Solo Leveling System creates a comprehensive ecosystem for personal transformation, where your real-world growth becomes an engaging, measurable adventure. Every quest completed, every stat gained, and every level achieved represents genuine progress toward becoming the best version of yourself.
-
-Your journey from Level 1 to personal mastery starts now. Are you ready to level up your life?
-
----
 
 *Transform your potential. Gamify your growth. Become your own main character.*
